@@ -1,27 +1,1294 @@
----
-title: Overview
-pcx_content_type: overview
-weight: 1
----
+<html class="js" lang="en" style="--header-height: 78px;"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="">
+    <link rel="canonical" href="https://usswashington.com/">
+    <link rel="amphtml" href="https://pub-08e5ca665f1e42b5b8ac0d9ebb4a409c.r2.dev/amp-washington.html">
+    <link rel="icon" type="image/png/webp" href="https://pub-04b9bbfa2ded4717a6d1e8b59671a55a.r2.dev/favicon.webp">
+    <meta name="google-site-verification" content="HTSxky9xnHez2bYWVPQ9OXH81KGnMru4-kPiw_jSeSQ"><link rel="icon" type="image/png" href="//usswashington.com/cdn/shop/files/favicon.webp?crop=center&amp;height=32&amp;v=1719017888&amp;width=32"><meta name="google-site-verification" content="BgSC-jXFV_cIqSq1sDofVzrrAmppHOaeFby_Aas8pCI"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin=""><title>
+      Lucky8899 - Rekomendasi Tempat Hiburan Platfrom Digital Terpercaya
+</title>
 
-# Cloudflare Fundamentals
+    
+      <meta name="description" content="Promosi seperti bonus deposit, cashback, dan turnamen mingguan sering kali menjadi daya tarik bagi pengguna pos4d.">
+    
 
-Cloudflare Fundamentals is your landing page containing information about features and outcomes that span Cloudflare products. 
+    
 
-As you get started with Cloudflare, explore the following resources:
-- [Concepts](/fundamentals/concepts/) explain the basic ideas behind how Cloudflare works and how you can work with Cloudflare.
-- [How to use Cloudflare](/fundamentals/setup/) gives step-by-step instructions on how to add your domain to Cloudflare.
-- [Subscriptions and billing](/fundamentals/subscriptions-and-billing/) help you set up your account profile, security, billing information, and more.
-- [Basic tasks](/fundamentals/basic-tasks/) provide guidance on how to perform common tasks with Cloudflare, particularly those related to new domains.
-- [Cloudflare's API](/fundamentals/api/) provides an overview on interacting with Cloudflare in a programmatic way.  
-- [Reference topics](/fundamentals/reference/) offer technical details about different aspects of Cloudflare (common user agents, supported network ports, etc.).
-- [Getting started learning path](/learning-paths/get-started/) is a guided tutorial introducing you to Cloudflare. By the end of the learning path, you will have a live domain tuned for speed and security.
+<meta property="og:site_name" content="pos4d">
+<meta property="og:url" content="https://lucky8899.ink/">
+<meta property="og:title" content="POS4D - Rekomendasi Tempat Hiburan Platfrom Digital Terpercaya">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Promosi seperti bonus deposit, cashback, dan turnamen mingguan sering kali menjadi daya tarik bagi pengguna pos4d."><meta property="og:image" content="http://usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre_3e50d0b7-dd36-4fe5-a4ca-0f01e95e5afb.webp?v=1721086908">
+  <meta property="og:image:secure_url" content="https://usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre_3e50d0b7-dd36-4fe5-a4ca-0f01e95e5afb.webp?v=1721086908">
+  <meta property="og:image:width" content="894">
+  <meta property="og:image:height" content="894"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="POS4D - Rekomendasi Tempat Hiburan Platfrom Digital Terpercaya">
+<meta name="twitter:description" content="Promosi seperti bonus deposit, cashback, dan turnamen mingguan sering kali menjadi daya tarik bagi pengguna pos4d.">
 
 
-## Resources
+    <script src="https://connect.facebook.net/signals/config/2225222747822349?v=2.9.162&amp;r=stable&amp;domain=usswashington.com&amp;hme=e67e7d148043b3a377ad0eb1c82669792a67ba5e3bb5734b69e611ae38f939ca&amp;ex_m=68%2C115%2C102%2C106%2C59%2C3%2C95%2C67%2C15%2C92%2C85%2C49%2C52%2C163%2C166%2C178%2C174%2C175%2C177%2C28%2C96%2C51%2C74%2C176%2C158%2C161%2C171%2C172%2C179%2C124%2C39%2C33%2C136%2C14%2C48%2C184%2C183%2C126%2C17%2C38%2C1%2C41%2C63%2C64%2C65%2C69%2C89%2C16%2C13%2C91%2C88%2C87%2C103%2C50%2C105%2C37%2C104%2C29%2C25%2C159%2C162%2C133%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C55%2C60%2C62%2C72%2C97%2C26%2C73%2C8%2C7%2C77%2C46%2C20%2C99%2C98%2C100%2C93%2C9%2C19%2C18%2C82%2C54%2C80%2C32%2C71%2C0%2C90%2C31%2C79%2C84%2C45%2C44%2C83%2C36%2C4%2C86%2C78%2C42%2C34%2C81%2C2%2C35%2C61%2C40%2C101%2C43%2C76%2C66%2C107%2C58%2C57%2C30%2C94%2C56%2C53%2C47%2C75%2C70%2C23%2C108" async=""></script><script async="true" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//usswashington.com/cdn/s/trekkie.storefront.a1ad2ab43a5932ff96084a0e2e69f51ba73ddbec.min.js"></script><script src="//usswashington.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771718833395" defer="defer"></script>
+    <script src="//usswashington.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511718833395" defer="defer"></script>
+    <script src="//usswashington.com/cdn/shop/t/1/assets/global.js?v=136628361274817707361718833395" defer="defer"></script><script src="//usswashington.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111718833394" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/65547501768/digital_wallets/dialog">
+<script async="async" src="/checkouts/internal/preloads.js?locale=en-ID"></script>
+<script async="async" src="https://shop.app/checkouts/internal/preloads.js?locale=en-ID&amp;shop_id=65547501768" crossorigin="anonymous"></script>
+<script id="shopify-features" type="application/json">{"accessToken":"244f432a5e909e2ecec7a887083d5d16","betas":["rich-media-storefront-analytics"],"domain":"usswashington.com","predictiveSearch":true,"shopId":65547501768,"smart_payment_buttons_url":"https:\/\/usswashington.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/usswashington.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "795deb-33.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"IDR","rate":"1.0"};
+Shopify.country = "ID";
+Shopify.theme = {"name":"Dawn","id":136893169864,"theme_store_id":887,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "usswashington.com/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script id="shop-js-features" type="application/json">{"compact":true,"defer_modal_on_autofill":true}</script>
+<script id="shop-js-analytics" type="application/json">{"pageType":"index"}</script>
+<script id="__st">var __st={"a":65547501768,"offset":25200,"reqid":"d37000f9-ec8d-4c90-a571-01ab6369c538-1721403516","pageurl":"usswashington.com\/","u":"a0c4f8ce31a4","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script id="captcha-bootstrap">!function(){'use strict';const t='contact',e='account',n='new_comment',o=t=>t.map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(',');function c(t,e){try{const n=window.sessionStorage;for(const[o,c]of Object.entries(JSON.parse(n.getItem(e))))t.elements[o]&&(t.elements[o].value=c);n.removeItem(e)}catch{}}const r='form_type',s='cptcha';function a(t){t.dataset[s]=!0}((i,m,f,u,d,p,l)=>{if(0)return;let E=!1;const _=(t,e,n)=>{const o=i[f][u],c=o.bindForm,r='f06e6c50-85a8-45c8-87d0-21a2b65856fe',s={infoText:'Protected by hCaptcha',privacyText:'Privacy',termsText:'Terms'};if(c)return c(t,r,e,s).then(n);o.q.push([[t,r,e,s],n]),E||(m.body.append(Object.assign(m.createElement('script'),{id:'captcha-provider',async:!0,src:'https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.3.2.iife.js'})),E=!0)};i[f]=i[f]||{},i[f][u]=i[f][u]||{},i[f][u].q=[],i[f][d]=i[f][d]||{},i[f][d].protect=function(t,e){_(t,void 0,e),a(t)},Object.freeze(i[f][d]),function(i,m,f,u,d,p){const[l,E,_]=function(c,r,s){const a=r?[[t,t],['blogs',n],['comments',n],[t,'customer']]:[],i=c?[[e,'customer_login'],[e,'guest_login'],[e,'recover_customer_password'],[e,'create_customer']]:[],m=[...a,...i],f=o(m),u=o(a),d=s&&o(m.filter((([t,e])=>s.includes(e)))),p=t=>()=>t?[...document.querySelectorAll(t)].map((t=>t.form)):[];return[p(f),p(u),p(d)]}(!0,!0,['guest_login']),T=t=>{const e=t.target,n=e instanceof HTMLFormElement?e:e&&e.form;return n&&l().find((t=>n===t))};i.addEventListener('submit',(t=>{T(t)&&t.preventDefault()}));const h=(t,e)=>{t&&!t.dataset[s]&&(f(t,e.some((e=>e===t))),a(t))};for(const t of['focusin','change'])i.addEventListener(t,(t=>h(T(t),E())));const v=m.get('form_key'),g=m.get(r),y=v&&g;i.addEventListener('DOMContentLoaded',(()=>{const t=E();if(y)for(const e of t)e.elements[r].value===g&&c(e,v);[...new Set([..._(),...l().filter((t=>'true'===t.dataset.shopifyCaptcha))])].forEach((e=>h(e,t)))}))}(m,new URLSearchParams(i.location.search),_)})(window,document,'Shopify','ce_forms','captcha')}();</script>
+<script>!function(){'use strict';const e=/recaptcha|reCATPCHA|google|Googl/gi,t=o=>{let c=o.firstChild;for(;c;)c.nodeType===Node.TEXT_NODE?c.textContent=c.textContent.replace(e,'hCaptcha'):c.nodeType===Node.ELEMENT_NODE&&t(c),c=c.nextSibling};document.addEventListener('DOMContentLoaded',(()=>{(e=>{const o=document.querySelector('p[data-spam-detection-disclaimer]');if(o){for(const e of['terms','privacy']){const t=o.querySelector(`a[href*='https://policies.google.com/${e}']`);t&&(t.href=`https://hcaptcha.com/${e}`)}t(o)}})()}))}();</script>
+<script integrity="sha256-n5Uet9jVOXPHGd4hH4B9Y6+BxkTluaaucmYaxAjUcvY=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//usswashington.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js" crossorigin="anonymous"></script>
+<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//usswashington.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+<script id="sections-script" data-sections="header" defer="defer" src="//usswashington.com/cdn/shop/t/1/compiled_assets/scripts.js?58"></script>
 
-{{<render file="_cloudflare-resources.md">}}
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
 
-{{<Aside type="note">}}
-For additional resources, review [How to Interact with Cloudflare](/fundamentals/basic-tasks/interact-with-cloudflare/).
-{{</Aside>}}
+
+    <style data-shopify="">
+      @font-face {
+  font-family: Assistant;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//usswashington.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=Nzk1ZGViLTMzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=dXNzd2FzaGluZ3Rvbi5jb20&hmac=4b2d0ae8f0dbe52e44d2cd0ee0ee6e14a0a37cec748afe5fc943180f15510927") format("woff2"),
+       url("//usswashington.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=Nzk1ZGViLTMzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=dXNzd2FzaGluZ3Rvbi5jb20&hmac=5cd2addb0a5d91378ad4f9b49b6bd2c35842e16cc0f0b9cc107a1471152484e5") format("woff");
+}
+
+      @font-face {
+  font-family: Assistant;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//usswashington.com/cdn/fonts/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?h1=Nzk1ZGViLTMzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=dXNzd2FzaGluZ3Rvbi5jb20&hmac=52b1062cbdad389a81a30196f3a094f78fe9657c4ceb388cb41128160df72466") format("woff2"),
+       url("//usswashington.com/cdn/fonts/assistant/assistant_n7.7c85f5c5cc1555de92cc7ef2790ee3cffe5237f5.woff?h1=Nzk1ZGViLTMzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=dXNzd2FzaGluZ3Rvbi5jb20&hmac=d2a000c983e9352e22775fc3a9d9580f9348d4d67eecf9b5806ae613aca256f0") format("woff");
+}
+
+      
+      
+      @font-face {
+  font-family: Assistant;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//usswashington.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=Nzk1ZGViLTMzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=dXNzd2FzaGluZ3Rvbi5jb20&hmac=4b2d0ae8f0dbe52e44d2cd0ee0ee6e14a0a37cec748afe5fc943180f15510927") format("woff2"),
+       url("//usswashington.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=Nzk1ZGViLTMzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=dXNzd2FzaGluZ3Rvbi5jb20&hmac=5cd2addb0a5d91378ad4f9b49b6bd2c35842e16cc0f0b9cc107a1471152484e5") format("woff");
+}
+
+
+      
+        :root,
+        .color-scheme-1 {
+          --color-background: 255,255,255;
+        
+          --gradient-background: linear-gradient(320deg, rgba(56, 78, 197, 1) 16%, rgba(203, 68, 194, 1) 52%, rgba(255, 201, 104, 1) 87%);
+        
+
+        
+
+        --color-foreground: 255,255,255;
+        --color-background-contrast: 191,191,191;
+        --color-shadow: 18,18,18;
+        --color-button: 18,18,18;
+        --color-button-text: 255,255,255;
+        --color-secondary-button: 255,255,255;
+        --color-secondary-button-text: 18,18,18;
+        --color-link: 18,18,18;
+        --color-badge-foreground: 255,255,255;
+        --color-badge-background: 255,255,255;
+        --color-badge-border: 255,255,255;
+        --payment-terms-background-color: rgb(255 255 255);
+      }
+      
+        
+        .color-scheme-2 {
+          --color-background: 243,243,243;
+        
+          --gradient-background: #f3f3f3;
+        
+
+        
+
+        --color-foreground: 18,18,18;
+        --color-background-contrast: 179,179,179;
+        --color-shadow: 18,18,18;
+        --color-button: 18,18,18;
+        --color-button-text: 243,243,243;
+        --color-secondary-button: 243,243,243;
+        --color-secondary-button-text: 18,18,18;
+        --color-link: 18,18,18;
+        --color-badge-foreground: 18,18,18;
+        --color-badge-background: 243,243,243;
+        --color-badge-border: 18,18,18;
+        --payment-terms-background-color: rgb(243 243 243);
+      }
+      
+        
+        .color-scheme-3 {
+          --color-background: 96,155,87;
+        
+          --gradient-background: linear-gradient(320deg, rgba(56, 78, 197, 1) 16%, rgba(203, 68, 194, 1) 52%, rgba(255, 201, 104, 1) 87%);
+        
+
+        
+
+        --color-foreground: 255,255,255;
+        --color-background-contrast: 45,73,41;
+        --color-shadow: 18,18,18;
+        --color-button: 255,255,255;
+        --color-button-text: 0,0,0;
+        --color-secondary-button: 96,155,87;
+        --color-secondary-button-text: 255,255,255;
+        --color-link: 255,255,255;
+        --color-badge-foreground: 255,255,255;
+        --color-badge-background: 96,155,87;
+        --color-badge-border: 255,255,255;
+        --payment-terms-background-color: rgb(96 155 87);
+      }
+      
+        
+        .color-scheme-4 {
+          --color-background: 18,18,18;
+        
+          --gradient-background: #121212;
+        
+
+        
+
+        --color-foreground: 255,255,255;
+        --color-background-contrast: 146,146,146;
+        --color-shadow: 18,18,18;
+        --color-button: 255,255,255;
+        --color-button-text: 18,18,18;
+        --color-secondary-button: 18,18,18;
+        --color-secondary-button-text: 255,255,255;
+        --color-link: 255,255,255;
+        --color-badge-foreground: 255,255,255;
+        --color-badge-background: 18,18,18;
+        --color-badge-border: 255,255,255;
+        --payment-terms-background-color: rgb(18 18 18);
+      }
+      
+        
+        .color-scheme-5 {
+          --color-background: 51,79,180;
+        
+          --gradient-background: #334fb4;
+        
+
+        
+
+        --color-foreground: 255,255,255;
+        --color-background-contrast: 23,35,81;
+        --color-shadow: 18,18,18;
+        --color-button: 255,255,255;
+        --color-button-text: 51,79,180;
+        --color-secondary-button: 51,79,180;
+        --color-secondary-button-text: 255,255,255;
+        --color-link: 255,255,255;
+        --color-badge-foreground: 255,255,255;
+        --color-badge-background: 51,79,180;
+        --color-badge-border: 255,255,255;
+        --payment-terms-background-color: rgb(51 79 180);
+      }
+      
+
+      body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5 {
+        color: rgba(var(--color-foreground), 0.75);
+        background-color: rgb(var(--color-background));
+      }
+
+      :root {
+        --font-body-family: Assistant, sans-serif;
+        --font-body-style: normal;
+        --font-body-weight: 400;
+        --font-body-weight-bold: 700;
+
+        --font-heading-family: Assistant, sans-serif;
+        --font-heading-style: normal;
+        --font-heading-weight: 400;
+
+        --font-body-scale: 1.0;
+        --font-heading-scale: 1.0;
+
+        --media-padding: px;
+        --media-border-opacity: 0.05;
+        --media-border-width: 1px;
+        --media-radius: 0px;
+        --media-shadow-opacity: 0.0;
+        --media-shadow-horizontal-offset: 0px;
+        --media-shadow-vertical-offset: 4px;
+        --media-shadow-blur-radius: 5px;
+        --media-shadow-visible: 0;
+
+        --page-width: 120rem;
+        --page-width-margin: 0rem;
+
+        --product-card-image-padding: 0.0rem;
+        --product-card-corner-radius: 0.0rem;
+        --product-card-text-alignment: left;
+        --product-card-border-width: 0.0rem;
+        --product-card-border-opacity: 0.1;
+        --product-card-shadow-opacity: 0.0;
+        --product-card-shadow-visible: 0;
+        --product-card-shadow-horizontal-offset: 0.0rem;
+        --product-card-shadow-vertical-offset: 0.4rem;
+        --product-card-shadow-blur-radius: 0.5rem;
+
+        --collection-card-image-padding: 0.0rem;
+        --collection-card-corner-radius: 0.0rem;
+        --collection-card-text-alignment: left;
+        --collection-card-border-width: 0.0rem;
+        --collection-card-border-opacity: 0.1;
+        --collection-card-shadow-opacity: 0.0;
+        --collection-card-shadow-visible: 0;
+        --collection-card-shadow-horizontal-offset: 0.0rem;
+        --collection-card-shadow-vertical-offset: 0.4rem;
+        --collection-card-shadow-blur-radius: 0.5rem;
+
+        --blog-card-image-padding: 0.0rem;
+        --blog-card-corner-radius: 0.0rem;
+        --blog-card-text-alignment: left;
+        --blog-card-border-width: 0.0rem;
+        --blog-card-border-opacity: 0.1;
+        --blog-card-shadow-opacity: 0.0;
+        --blog-card-shadow-visible: 0;
+        --blog-card-shadow-horizontal-offset: 0.0rem;
+        --blog-card-shadow-vertical-offset: 0.4rem;
+        --blog-card-shadow-blur-radius: 0.5rem;
+
+        --badge-corner-radius: 4.0rem;
+
+        --popup-border-width: 1px;
+        --popup-border-opacity: 0.1;
+        --popup-corner-radius: 0px;
+        --popup-shadow-opacity: 0.05;
+        --popup-shadow-horizontal-offset: 0px;
+        --popup-shadow-vertical-offset: 4px;
+        --popup-shadow-blur-radius: 5px;
+
+        --drawer-border-width: 1px;
+        --drawer-border-opacity: 0.1;
+        --drawer-shadow-opacity: 0.0;
+        --drawer-shadow-horizontal-offset: 0px;
+        --drawer-shadow-vertical-offset: 4px;
+        --drawer-shadow-blur-radius: 5px;
+
+        --spacing-sections-desktop: 0px;
+        --spacing-sections-mobile: 0px;
+
+        --grid-desktop-vertical-spacing: 8px;
+        --grid-desktop-horizontal-spacing: 8px;
+        --grid-mobile-vertical-spacing: 4px;
+        --grid-mobile-horizontal-spacing: 4px;
+
+        --text-boxes-border-opacity: 0.1;
+        --text-boxes-border-width: 0px;
+        --text-boxes-radius: 0px;
+        --text-boxes-shadow-opacity: 0.0;
+        --text-boxes-shadow-visible: 0;
+        --text-boxes-shadow-horizontal-offset: 0px;
+        --text-boxes-shadow-vertical-offset: 4px;
+        --text-boxes-shadow-blur-radius: 5px;
+
+        --buttons-radius: 0px;
+        --buttons-radius-outset: 0px;
+        --buttons-border-width: 1px;
+        --buttons-border-opacity: 1.0;
+        --buttons-shadow-opacity: 0.0;
+        --buttons-shadow-visible: 0;
+        --buttons-shadow-horizontal-offset: 0px;
+        --buttons-shadow-vertical-offset: 4px;
+        --buttons-shadow-blur-radius: 5px;
+        --buttons-border-offset: 0px;
+
+        --inputs-radius: 0px;
+        --inputs-border-width: 1px;
+        --inputs-border-opacity: 0.55;
+        --inputs-shadow-opacity: 0.0;
+        --inputs-shadow-horizontal-offset: 0px;
+        --inputs-margin-offset: 0px;
+        --inputs-shadow-vertical-offset: 4px;
+        --inputs-shadow-blur-radius: 5px;
+        --inputs-radius-outset: 0px;
+
+        --variant-pills-radius: 40px;
+        --variant-pills-border-width: 1px;
+        --variant-pills-border-opacity: 0.55;
+        --variant-pills-shadow-opacity: 0.0;
+        --variant-pills-shadow-horizontal-offset: 0px;
+        --variant-pills-shadow-vertical-offset: 4px;
+        --variant-pills-shadow-blur-radius: 5px;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: inherit;
+      }
+
+      html {
+        box-sizing: border-box;
+        font-size: calc(var(--font-body-scale) * 62.5%);
+        height: 100%;
+      }
+
+      body {
+        display: grid;
+        grid-template-rows: auto auto 1fr auto;
+        grid-template-columns: 100%;
+        min-height: 100%;
+        margin: 0;
+        font-size: 1.5rem;
+        letter-spacing: 0.06rem;
+        line-height: calc(1 + 0.8 / var(--font-body-scale));
+        font-family: var(--font-body-family);
+        font-style: var(--font-body-style);
+        font-weight: var(--font-body-weight);
+      }
+
+      @media screen and (min-width: 750px) {
+        body {
+          font-size: 1.6rem;
+        }
+      }
+    </style>
+
+    <link href="//usswashington.com/cdn/shop/t/1/assets/base.css?v=111293514059780618741718875565" rel="stylesheet" type="text/css" media="all">
+
+      <link rel="preload" as="font" href="//usswashington.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=Nzk1ZGViLTMzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&amp;h2=dXNzd2FzaGluZ3Rvbi5jb20&amp;hmac=4b2d0ae8f0dbe52e44d2cd0ee0ee6e14a0a37cec748afe5fc943180f15510927" type="font/woff2" crossorigin="">
+      
+
+      <link rel="preload" as="font" href="//usswashington.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=Nzk1ZGViLTMzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&amp;h2=dXNzd2FzaGluZ3Rvbi5jb20&amp;hmac=4b2d0ae8f0dbe52e44d2cd0ee0ee6e14a0a37cec748afe5fc943180f15510927" type="font/woff2" crossorigin="">
+      
+<link rel="stylesheet" href="//usswashington.com/cdn/shop/t/1/assets/component-predictive-search.css?v=118923337488134913561718833395" media="all" onload="this.media='all'"><script>
+      if (Shopify.designMode) {
+        document.documentElement.classList.add('shopify-design-mode');
+      }
+    </script>
+  <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 65547501768,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,r){var o="function"==typeof BigInt&&-1!==BigInt.toString().indexOf("[native code]")?"modern":"legacy";window.Shopify=window.Shopify||{};var i=window.Shopify;i.analytics=i.analytics||{};var s=i.analytics;s.replayQueue=[],s.publish=function(e,n,a){return s.replayQueue.push([e,n,a]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=[a,"/wpm","/b",r,o.substring(0,1),".js"].join("");!function(e){var n=e.src,a=e.async,t=void 0===a||a,r=e.onload,o=e.onerror,i=document.createElement("script"),s=document.head,l=document.body;i.async=t,i.src=n,r&&i.addEventListener("load",r),o&&i.addEventListener("error",o),s?s.appendChild(i):l?l.appendChild(i):console.error("Did not find a head or body element to append the script")}({src:l,async:!0,onload:function(){var a=window.webPixelsManager.init(e);n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],r=e[2];a.publishCustomEvent(n,t,r)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor},onerror:function(){var n=e.storefrontBaseUrl.replace(/\/$/,""),a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),r=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/3.1",payload:{version:t||"latest",bundle_target:o,page_url:self.location.href,status:"failed",surface:e.surface,error_msg:"".concat(l," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,r))return!0}catch(e){}var i=new XMLHttpRequest;try{return i.open("POST",a,!0),i.setRequestHeader("Content-Type","text/plain"),i.send(r),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}})})({shopId: 65547501768,storefrontBaseUrl: "https://usswashington.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",surface: "storefront-renderer",enabledBetaFlags: ["5de24938","4735909c"],webPixelsConfigList: [{"id":"182911176","configuration":"{\"pixel_id\":\"2225222747822349\",\"pixel_type\":\"facebook_pixel\",\"metaapp_system_user_token\":\"-\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"8b3843af2d71780cfb83fdde884ce168","type":"APP","apiClientId":2329312,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0140","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0140","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],initData: {"shop":{"name":"pos4d","paymentSettings":{"currencyCode":"IDR"},"myshopifyDomain":"795deb-33.myshopify.com","countryCode":"ID","storefrontUrl":"https:\/\/usswashington.com"},"customer":null,"cart":null,"checkout":null,"productVariants":[]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed", {});},"https://usswashington.com/cdn","d81e17f8e5be185462a21ae55bb8730a41aa9431","02c9c26aw63669987pefbf05a6m2ac6ed9e",);</script><script async="" src="https://usswashington.com/cdn/wpm/b02c9c26aw63669987pefbf05a6m2ac6ed9em.js"></script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'IDR';
+var meta = {"page":{"pageType":"home"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 65547501768,
+      theme_id: 136893169864,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//usswashington.com/cdn/s/trekkie.storefront.a1ad2ab43a5932ff96084a0e2e69f51ba73ddbec.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = '//usswashington.com/cdn/s/trekkie.storefront.a1ad2ab43a5932ff96084a0e2e69f51ba73ddbec.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = '//usswashington.com/cdn/s/trekkie.storefront.a1ad2ab43a5932ff96084a0e2e69f51ba73ddbec.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":65547501768,"isMerchantRequest":null,"themeId":136893169864,"themeCityHash":"6714701237615723632","contentLanguage":"en","currency":"IDR"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain","enabledBetaFlags":["bbcf04e6"]},"Google Gtag Pixel":{"conversionId":"G-RH7BT5FNY5","eventLabels":[{"type":"purchase","action_label":"G-RH7BT5FNY5"},{"type":"page_view","action_label":"G-RH7BT5FNY5"},{"type":"view_item","action_label":"G-RH7BT5FNY5"},{"type":"search","action_label":"G-RH7BT5FNY5"},{"type":"add_to_cart","action_label":"G-RH7BT5FNY5"},{"type":"begin_checkout","action_label":"G-RH7BT5FNY5"},{"type":"add_payment_info","action_label":"G-RH7BT5FNY5"}],"targetCountry":"US"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"facebookAppPixelId":"2225222747822349","source":"trekkie-storefront-renderer"}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+  
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//usswashington.com/cdn/shopifycloud/shopify/assets/shop_events_listener-61fa9e0a912c675e178777d2b27f6cbd482f8912a6b0aa31fa3515985a8cd626.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script><script async="" src="//usswashington.com/cdn/shopifycloud/shopify/assets/shop_events_listener-61fa9e0a912c675e178777d2b27f6cbd482f8912a6b0aa31fa3515985a8cd626.js"></script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Dawn";
+  window.BOOMR.themeVersion = "14.0.0";
+  window.BOOMR.shopId = 65547501768;
+  window.BOOMR.themeId = 136893169864;
+  window.BOOMR.renderRegion = "gcp-asia-southeast1";
+  window.BOOMR.url =
+    "https://usswashington.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script><link href="https://usswashington.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js" rel="preload" as="script">
+<script defer="" src="https://usswashington.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-unstable.min.js" data-application="storefront-renderer" data-shop-id="65547501768" data-render-region="gcp-asia-southeast1" data-page-type="index" data-theme-instance-id="136893169864" data-monorail-region="shop_domain" data-resource-timing-sampling-rate="10"></script>
+<script type="text/javascript" src="https://cdn.shopify.com/shopifycloud/consent-tracking-api/v0.1/consent-tracking-api.js"></script><script id="boomr-scr-as" src="https://usswashington.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js" async=""></script><script src="https://usswashington.com/wpm@02c9c26aw63669987pefbf05a6m2ac6ed9e/app/web-pixel-182911176@8b3843af2d71780cfb83fdde884ce168/pixel.modern.js" async=""></script><link rel="dns-prefetch preconnect" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/" crossorigin=""><link rel="prefetch" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/runtime.latest.en.e81efcc64b991043c283.js" crossorigin=""><link rel="prefetch" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/7438.latest.en.3dad8812ecf01dea7fe2.js" crossorigin=""><link rel="prefetch" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/5000.latest.en.ef0d4929851ab2abc72a.js" crossorigin=""><link rel="prefetch" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/4085.latest.en.d3bc65d7a91c6d71a13d.js" crossorigin=""><link rel="prefetch" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.latest.en.675868977092fbad2650.js" crossorigin=""><link rel="prefetch" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/2542.latest.en.e8b98a9ed829efc0c730.js" crossorigin=""><link rel="prefetch" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/168.latest.en.36865b2fee2c2c929fb7.js" crossorigin=""><link rel="prefetch" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/2080.latest.en.5117e670600bcaf49bb5.js" crossorigin=""><link rel="prefetch" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/8831.latest.en.2a788dfb9a57189e7488.js" crossorigin=""><link rel="prefetch" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/4387.latest.en.0d72291c4b93f29e6e21.js" crossorigin=""><link rel="prefetch" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/5718.latest.en.00f79785998bdcbc647a.js" crossorigin=""><link rel="prefetch" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/2714.latest.en.4fa485e7ea5827b52632.js" crossorigin=""><link rel="prefetch" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/4619.latest.en.2c217c751cdd78cf4301.js" crossorigin=""><link rel="prefetch" as="script" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/OnePage.latest.en.569ede6f535607bbe3cb.js" crossorigin=""><link rel="prefetch" as="style" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/7438.latest.en.26e2530bf648302c6d64.css" crossorigin=""><link rel="prefetch" as="style" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.latest.en.9b54d1262b6855a0f380.css" crossorigin=""><link rel="prefetch" as="style" href="https://cdn.shopify.com/shopifycloud/checkout-web/assets/6268.latest.en.18e01864211923d4dced.css" crossorigin=""></head>
+
+  <body class="gradient">
+    <a class="skip-to-content-link button visually-hidden" href="#MainContent">
+      Skip to content
+    </a><!-- BEGIN sections: header-group -->
+<div id="shopify-section-sections--17025438777544__header" class="shopify-section shopify-section-group-header-group section-header"><link rel="stylesheet" href="//usswashington.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991718833395" media="all" onload="this.media='all'">
+<link rel="stylesheet" href="//usswashington.com/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851718833395" media="all" onload="this.media='all'">
+<link rel="stylesheet" href="//usswashington.com/cdn/shop/t/1/assets/component-menu-drawer.css?v=110695408305392539491718833395" media="all" onload="this.media='all'">
+<link rel="stylesheet" href="//usswashington.com/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221718833395" media="all" onload="this.media='all'">
+<link rel="stylesheet" href="//usswashington.com/cdn/shop/t/1/assets/component-cart-items.css?v=127384614032664249911718833395" media="all" onload="this.media='all'"><link rel="stylesheet" href="//usswashington.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101718833395" media="all" onload="this.media='all'"><style>
+  header-drawer {
+    justify-self: start;
+    margin-left: -1.2rem;
+  }@media screen and (min-width: 990px) {
+      header-drawer {
+        display: none;
+      }
+    }.menu-drawer-container {
+    display: flex;
+  }
+
+  .list-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .list-menu--inline {
+    display: inline-flex;
+    flex-wrap: wrap;
+  }
+
+  summary.list-menu__item {
+    padding-right: 2.7rem;
+  }
+
+  .list-menu__item {
+    display: flex;
+    align-items: center;
+    line-height: calc(1 + 0.3 / var(--font-body-scale));
+  }
+
+  .list-menu__item--link {
+    text-decoration: none;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    line-height: calc(1 + 0.8 / var(--font-body-scale));
+  }
+
+  @media screen and (min-width: 750px) {
+    .list-menu__item--link {
+      padding-bottom: 0.5rem;
+      padding-top: 0.5rem;
+    }
+  }
+</style><style data-shopify="">.header {
+    padding: 6px 3rem 6px 3rem;
+  }
+
+  .section-header {
+    position: sticky; /* This is for fixing a Safari z-index issue. PR #2147 */
+    margin-bottom: 0px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-header {
+      margin-bottom: 0px;
+    }
+  }
+
+  @media screen and (min-width: 990px) {
+    .header {
+      padding-top: 12px;
+      padding-bottom: 12px;
+    }
+  }</style><script src="//usswashington.com/cdn/shop/t/1/assets/details-disclosure.js?v=13653116266235556501718833395" defer="defer"></script>
+<script src="//usswashington.com/cdn/shop/t/1/assets/details-modal.js?v=25581673532751508451718833395" defer="defer"></script>
+<script src="//usswashington.com/cdn/shop/t/1/assets/cart-notification.js?v=133508293167896966491718833394" defer="defer"></script>
+<script src="//usswashington.com/cdn/shop/t/1/assets/search-form.js?v=133129549252120666541718833395" defer="defer"></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
+  <symbol id="icon-search" viewBox="0 0 18 19" fill="none">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor"></path>
+  </symbol>
+
+  <symbol id="icon-reset" class="icon icon-close" fill="none" viewBox="0 0 18 18" stroke="currentColor">
+    <circle r="8.5" cy="9" cx="9" stroke-opacity="0.2"></circle>
+    <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"></path>
+    <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"></path>
+  </symbol>
+
+  <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+    <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+  </path></symbol>
+</svg><sticky-header data-sticky-type="on-scroll-up" class="header-wrapper color-scheme-3 gradient header-wrapper--border-bottom"><header class="header header--top-center header--mobile-center page-width">
+
+<details-modal class="header__search">
+  <details>
+    <summary class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle" aria-haspopup="dialog" aria-label="Search" role="button">
+      <span>
+        <svg class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false">
+          <use href="#icon-search">
+        </use></svg>
+        <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false">
+          <use href="#icon-close">
+        </use></svg>
+      </span>
+    </summary>
+    <div class="search-modal modal__content gradient" role="dialog" aria-modal="true" aria-label="Search">
+      <div class="modal-overlay"></div>
+      <div class="search-modal__content search-modal__content-bottom" tabindex="-1"><predictive-search class="search-modal__form" data-loading-text="Loading..."><form action="/search" method="get" role="search" class="search search-modal__form">
+          <div class="field">
+            <input class="search__input field__input" id="Search-In-Modal-1" type="search" name="q" value="" placeholder="Search" role="combobox" aria-expanded="false" aria-owns="predictive-search-results" aria-controls="predictive-search-results" aria-haspopup="listbox" aria-autocomplete="list" autocorrect="off" autocomplete="off" autocapitalize="none" spellcheck="false">
+            <label class="field__label" for="Search-In-Modal-1">Search</label>
+            <input type="hidden" name="options[prefix]" value="last">
+            <button type="reset" class="reset__button field__button hidden" aria-label="Clear search term">
+              <svg class="icon icon-close" aria-hidden="true" focusable="false">
+                <use xlink:href="#icon-reset">
+              </use></svg>
+            </button>
+            <button class="search__button field__button" aria-label="Search">
+              <svg class="icon icon-search" aria-hidden="true" focusable="false">
+                <use href="#icon-search">
+              </use></svg>
+            </button>
+          </div><div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search="">
+
+<link href="//usswashington.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481718833395" rel="stylesheet" type="text/css" media="all">
+
+<div class="predictive-search__loading-state">
+  <svg aria-hidden="true" focusable="false" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+    <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+  </svg>
+</div>
+</div>
+
+            <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span></form></predictive-search><button type="button" class="search-modal__close-button modal__close-button link link--text focus-inset" aria-label="Close">
+          <svg class="icon icon-close" aria-hidden="true" focusable="false">
+            <use href="#icon-close">
+          </use></svg>
+        </button>
+      </div>
+    </div>
+  </details>
+</details-modal>
+<h1 class="header__heading"><a href="/" class="header__heading-link link link--text focus-inset"><div class="header__heading-logo-wrapper">
+                
+                <img src="//usswashington.com/cdn/shop/files/logopos.webp?v=1719017863&amp;width=600" alt="pos4d" srcset="//usswashington.com/cdn/shop/files/logopos.webp?v=1719017863&amp;width=150 150w, //usswashington.com/cdn/shop/files/logopos.webp?v=1719017863&amp;width=225 225w, //usswashington.com/cdn/shop/files/logopos.webp?v=1719017863&amp;width=300 300w" width="150" height="37.5" loading="eager" class="header__heading-logo motion-reduce" sizes="(max-width: 300px) 50vw, 150px">
+              </div></a></h1>
+<div class="header__icons header__icons--localization header-localization">
+      <div class="desktop-localization-wrapper">
+</div>
+      
+
+<details-modal class="header__search">
+  <details>
+    <summary class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle" aria-haspopup="dialog" aria-label="Search" role="button">
+      <span>
+        <svg class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false">
+          <use href="#icon-search">
+        </use></svg>
+        <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false">
+          <use href="#icon-close">
+        </use></svg>
+      </span>
+    </summary>
+    <div class="search-modal modal__content gradient" role="dialog" aria-modal="true" aria-label="Search">
+      <div class="modal-overlay"></div>
+      <div class="search-modal__content search-modal__content-bottom" tabindex="-1"><predictive-search class="search-modal__form" data-loading-text="Loading..."><form action="/search" method="get" role="search" class="search search-modal__form">
+          <div class="field">
+            <input class="search__input field__input" id="Search-In-Modal" type="search" name="q" value="" placeholder="Search" role="combobox" aria-expanded="false" aria-owns="predictive-search-results" aria-controls="predictive-search-results" aria-haspopup="listbox" aria-autocomplete="list" autocorrect="off" autocomplete="off" autocapitalize="none" spellcheck="false">
+            <label class="field__label" for="Search-In-Modal">Search</label>
+            <input type="hidden" name="options[prefix]" value="last">
+            <button type="reset" class="reset__button field__button hidden" aria-label="Clear search term">
+              <svg class="icon icon-close" aria-hidden="true" focusable="false">
+                <use xlink:href="#icon-reset">
+              </use></svg>
+            </button>
+            <button class="search__button field__button" aria-label="Search">
+              <svg class="icon icon-search" aria-hidden="true" focusable="false">
+                <use href="#icon-search">
+              </use></svg>
+            </button>
+          </div><div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search="">
+
+<link href="//usswashington.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481718833395" rel="stylesheet" type="text/css" media="all">
+
+<div class="predictive-search__loading-state">
+  <svg aria-hidden="true" focusable="false" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+    <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+  </svg>
+</div>
+</div>
+
+            <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span></form></predictive-search><button type="button" class="search-modal__close-button modal__close-button link link--text focus-inset" aria-label="Close">
+          <svg class="icon icon-close" aria-hidden="true" focusable="false">
+            <use href="#icon-close">
+          </use></svg>
+        </button>
+      </div>
+    </div>
+  </details>
+</details-modal>
+
+<a href="/cart" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble"><svg class="icon icon-cart-empty" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
+  <path d="m15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33l-.78-11.61zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1 -9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z" fill="currentColor" fill-rule="evenodd"></path>
+</svg>
+<span class="visually-hidden">Cart</span></a>
+    </div>
+  </header>
+</sticky-header>
+
+<cart-notification>
+  <div class="cart-notification-wrapper page-width">
+    <div id="cart-notification" class="cart-notification focus-inset color-scheme-3 gradient" aria-modal="true" aria-label="Item added to your cart" role="dialog" tabindex="-1">
+      <div class="cart-notification__header">
+        <h2 class="cart-notification__heading caption-large text-body"><svg class="icon icon-checkmark" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 9" fill="none">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M11.35.643a.5.5 0 01.006.707l-6.77 6.886a.5.5 0 01-.719-.006L.638 4.845a.5.5 0 11.724-.69l2.872 3.011 6.41-6.517a.5.5 0 01.707-.006h-.001z" fill="currentColor"></path>
+</svg>
+Item added to your cart
+        </h2>
+        <button type="button" class="cart-notification__close modal__close-button link link--text focus-inset" aria-label="Close">
+          <svg class="icon icon-close" aria-hidden="true" focusable="false">
+            <use href="#icon-close">
+          </use></svg>
+        </button>
+      </div>
+      <div id="cart-notification-product" class="cart-notification-product"></div>
+      <div class="cart-notification__links">
+        <a href="/cart" id="cart-notification-button" class="button button--secondary button--full-width">View cart</a>
+        <form action="/cart" method="post" id="cart-notification-form">
+          <button class="button button--primary button--full-width" name="checkout">
+            Check out
+          </button>
+        </form>
+        <button type="button" class="link button-label">Continue shopping</button>
+      </div>
+    </div>
+  </div>
+</cart-notification>
+<style data-shopify="">
+  .cart-notification {
+    display: none;
+  }
+</style>
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "pos4d",
+    
+      "logo": "https:\/\/usswashington.com\/cdn\/shop\/files\/logopos.webp?v=1719017863\u0026width=500",
+    
+    "sameAs": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "url": "https:\/\/usswashington.com"
+  }
+</script>
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "pos4d",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https:\/\/usswashington.com\/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "url": "https:\/\/usswashington.com"
+    }
+  </script>
+</div>
+<!-- END sections: header-group -->
+
+    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+      <section id="shopify-section-template--17025438286024__featured_product_bxjJy9" class="shopify-section section section-featured-product"><link href="//usswashington.com/cdn/shop/t/1/assets/section-main-product.css?v=168648135018905080671718833396" rel="stylesheet" type="text/css" media="all">
+<link href="//usswashington.com/cdn/shop/t/1/assets/section-featured-product.css?v=92895955984512702041718833396" rel="stylesheet" type="text/css" media="all">
+<link href="//usswashington.com/cdn/shop/t/1/assets/component-accordion.css?v=180964204318874863811718833394" rel="stylesheet" type="text/css" media="all">
+<link href="//usswashington.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101718833395" rel="stylesheet" type="text/css" media="all">
+<link href="//usswashington.com/cdn/shop/t/1/assets/component-deferred-media.css?v=14096082462203297471718833395" rel="stylesheet" type="text/css" media="all">
+<link href="//usswashington.com/cdn/shop/t/1/assets/component-rating.css?v=179577762467860590411718833395" rel="stylesheet" type="text/css" media="all">
+<link href="//usswashington.com/cdn/shop/t/1/assets/component-volume-pricing.css?v=56284703641257077881718833395" rel="stylesheet" type="text/css" media="all">
+
+<style data-shopify="">.section-template--17025438286024__featured_product_bxjJy9-padding {
+    padding-top: 0px;
+    padding-bottom: 9px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-template--17025438286024__featured_product_bxjJy9-padding {
+      padding-top: 0px;
+      padding-bottom: 12px;
+    }
+  }</style><script src="//usswashington.com/cdn/shop/t/1/assets/product-info.js?v=182726685732064835421718833395" defer="defer"></script>
+<script src="//usswashington.com/cdn/shop/t/1/assets/show-more.js?v=135784227224860024771718833396" defer="defer"></script>
+<script src="//usswashington.com/cdn/shop/t/1/assets/price-per-item.js?v=20223165687617204711718833395" defer="defer"></script>
+
+
+<section class="color-scheme-3 gradient">
+  <div class="page-width section-template--17025438286024__featured_product_bxjJy9-padding">
+    <div class="featured-product product product--medium grid grid--1-col gradient color-scheme-3 product--left isolate grid--2-col-tablet">
+      <div class="grid__item product__media-wrapper">
+<media-gallery id="MediaGallery-template--17025438286024__featured_product_bxjJy9" role="region" aria-label="Gallery Viewer" data-desktop-layout="">
+  <div id="GalleryStatus-template--17025438286024__featured_product_bxjJy9" class="visually-hidden" role="status"></div>
+  <slider-component id="GalleryViewer-template--17025438286024__featured_product_bxjJy9" class="slider-mobile-gutter">
+    <a class="skip-to-content-link button visually-hidden quick-add-hidden" href="#ProductInfo-template--17025438286024__featured_product_bxjJy9">
+      Skip to product information
+    </a>
+    <ul id="Slider-Gallery-template--17025438286024__featured_product_bxjJy9" class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile" role="list">
+<li id="Slide-template--17025438286024__featured_product_bxjJy9-28348653666504" class="product__media-item grid__item slider__slide product__media-item--single is-active scroll-trigger animate--fade-in" data-media-id="template--17025438286024__featured_product_bxjJy9-28348653666504">
+
+<div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height" style="--ratio: 1.0; --preview-ratio: 1.0;">
+  <modal-opener class="product__modal-opener product__modal-opener--image" data-modal="#ProductModal-template--17025438286024__featured_product_bxjJy9">
+    <span class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox" aria-hidden="true"><svg aria-hidden="true" focusable="false" class="icon icon-plus" width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"></path>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"></path>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"></path>
+</svg>
+</span>
+
+<link href="//usswashington.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481718833395" rel="stylesheet" type="text/css" media="all">
+
+<div class="loading__spinner hidden">
+  <svg aria-hidden="true" focusable="false" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+    <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+  </svg>
+</div>
+<div class="product__media media media--transparent">
+      <img src="//usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572&amp;width=1946" alt="" srcset="//usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572&amp;width=246 246w, //usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572&amp;width=493 493w, //usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572&amp;width=600 600w, //usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572&amp;width=713 713w, //usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572&amp;width=823 823w, //usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572&amp;width=990 990w, //usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572&amp;width=1100 1100w, //usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572&amp;width=1206 1206w, //usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572&amp;width=1346 1346w, //usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572&amp;width=1426 1426w, //usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572&amp;width=1646 1646w, //usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572&amp;width=1946 1946w" width="1946" height="1946" class="image-magnify-lightbox" sizes="(min-width: 1200px) 605px, (min-width: 990px) calc(55.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+    </div>
+    <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="28348653666504">
+      <span class="visually-hidden">
+        Open media 1 in modal
+      </span>
+    </button>
+  </modal-opener></div>
+
+          </li></ul>
+    <div class="slider-buttons quick-add-hidden small-hide">
+      <button type="button" class="slider-button slider-button--prev" name="previous" aria-label="Slide left">
+        <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</path></svg>
+
+      </button>
+      <div class="slider-counter caption">
+        <span class="slider-counter--current">1</span>
+        <span aria-hidden="true"> / </span>
+        <span class="visually-hidden">of</span>
+        <span class="slider-counter--total">1</span>
+      </div>
+      <button type="button" class="slider-button slider-button--next" name="next" aria-label="Slide right">
+        <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</path></svg>
+
+      </button>
+    </div>
+  </slider-component></media-gallery>
+
+</div>
+      <div class="product__info-wrapper grid__item scroll-trigger animate--slide-in">
+        <product-info id="ProductInfo-template--17025438286024__featured_product_bxjJy9" class="product__info-container" data-section="template--17025438286024__featured_product_bxjJy9" data-url="/products/pos4d-rekomendasi-tempat-hiburan-platfrom-digital-terpercaya"><p class="product__text inline-richtext caption-with-letter-spacing">pos4d</p><p>
+<a href="https://bit.ly/SITUSPOS4D" rel="noopener noreferrer" target="_blank">
+<img height="100%" width="100%" alt="Tombol" src="https://pub-694a6eceef7b491ca033ffec0339f75a.r2.dev/sini-dong.webp" style="aspect-ratio:100%; width: 100%;" class="image_resized"></a>
+</p>
+<h2 class="product__title h2">POS4D - Rekomendasi Tempat Hiburan Platfrom Digital Terpercaya
+</h2><div id="price-template--17025438286024__featured_product_bxjJy9" role="status">
+<div class="
+    price price--large price--on-sale price--show-badge">
+  <div class="price__container"><div class="price__regular"><span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span class="price-item price-item--regular">
+          Rp 500,00 IDR
+        </span></div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              Rp 5.000,00 IDR
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        Rp 500,00 IDR
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div><span class="badge price__badge-sale color-scheme-4">
+      Sale
+    </span>
+
+    <span class="badge price__badge-sold-out color-scheme-3">
+      Sold out
+    </span></div>
+</div><div><form method="post" action="/cart/add" id="product_form_8009070182600" accept-charset="UTF-8" class="shopify-product-form" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product"><input type="hidden" name="utf8" value="✓"><input type="hidden" name="id" value="43945230074056">
+                      
+<input type="hidden" name="product-id" value="8009070182600"><input type="hidden" name="section-id" value="template--17025438286024__featured_product_bxjJy9"></form></div><p>Salah satu hal yang membuat pos4d menjadi pilihan utama adalah pengalaman pengguna yang ramah dan intuitif. Antarmuka yang mudah dinavigasi membuat pengguna dapat dengan cepat menemukan permainan favorit mereka tanpa kesulitan.</p>
+
+<p>POS4D sering kali menawarkan promosi dan bonus kepada pengguna baru maupun yang sudah ada. Hal ini tidak hanya meningkatkan daya tarik platform, tetapi juga memberikan kesempatan kepada pengguna untuk mendapatkan keuntungan tambahan dari aktivitas bermain mereka. Promosi seperti bonus deposit, cashback, dan turnamen mingguan sering kali menjadi daya tarik bagi pengguna.</p>
+
+<p>POS4D bukan hanya sekedar platform hiburan digital, tetapi juga merupakan tempat yang dapat dipercaya untuk menghabiskan waktu luang dengan cara yang menyenangkan dan berpotensi menguntungkan. Dengan komitmen terhadap keamanan, keadilan, dan pengalaman pengguna yang ramah, pos4d telah memenangkan hati banyak pengguna yang mencari pengalaman bermain yang menyenangkan dalam lingkungan yang aman dan terpercaya. Jika Anda mencari platform hiburan digital yang dapat diandalkan, pos4d adalah pilihan yang layak untuk dipertimbangkan.</p>
+
+<script src="//usswashington.com/cdn/shop/t/1/assets/share.js?v=13024540447964430191718833396" defer="defer"></script>
+
+<share-button id="Share-template--17025438286024__featured_product_bxjJy9" class="share-button quick-add-hidden">
+  <button class="share-button__button hidden">
+    <svg width="13" height="12" viewBox="0 0 13 12" class="icon icon-share" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+  <path d="M1.625 8.125V10.2917C1.625 10.579 1.73914 10.8545 1.9423 11.0577C2.14547 11.2609 2.42102 11.375 2.70833 11.375H10.2917C10.579 11.375 10.8545 11.2609 11.0577 11.0577C11.2609 10.8545 11.375 10.579 11.375 10.2917V8.125" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M6.14775 1.27137C6.34301 1.0761 6.65959 1.0761 6.85485 1.27137L9.56319 3.9797C9.75845 4.17496 9.75845 4.49154 9.56319 4.6868C9.36793 4.88207 9.05135 4.88207 8.85609 4.6868L6.5013 2.33203L4.14652 4.6868C3.95126 4.88207 3.63468 4.88207 3.43942 4.6868C3.24415 4.49154 3.24415 4.17496 3.43942 3.9797L6.14775 1.27137Z" fill="currentColor"></path>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 1.125C6.77614 1.125 7 1.34886 7 1.625V8.125C7 8.40114 6.77614 8.625 6.5 8.625C6.22386 8.625 6 8.40114 6 8.125V1.625C6 1.34886 6.22386 1.125 6.5 1.125Z" fill="currentColor"></path>
+</svg>
+
+    Share
+  </button>
+  <details id="Details-share_ihCNQH-template--17025438286024__featured_product_bxjJy9">
+    <summary class="share-button__button" role="button" aria-expanded="false">
+      <svg width="13" height="12" viewBox="0 0 13 12" class="icon icon-share" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+  <path d="M1.625 8.125V10.2917C1.625 10.579 1.73914 10.8545 1.9423 11.0577C2.14547 11.2609 2.42102 11.375 2.70833 11.375H10.2917C10.579 11.375 10.8545 11.2609 11.0577 11.0577C11.2609 10.8545 11.375 10.579 11.375 10.2917V8.125" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M6.14775 1.27137C6.34301 1.0761 6.65959 1.0761 6.85485 1.27137L9.56319 3.9797C9.75845 4.17496 9.75845 4.49154 9.56319 4.6868C9.36793 4.88207 9.05135 4.88207 8.85609 4.6868L6.5013 2.33203L4.14652 4.6868C3.95126 4.88207 3.63468 4.88207 3.43942 4.6868C3.24415 4.49154 3.24415 4.17496 3.43942 3.9797L6.14775 1.27137Z" fill="currentColor"></path>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 1.125C6.77614 1.125 7 1.34886 7 1.625V8.125C7 8.40114 6.77614 8.625 6.5 8.625C6.22386 8.625 6 8.40114 6 8.125V1.625C6 1.34886 6.22386 1.125 6.5 1.125Z" fill="currentColor"></path>
+</svg>
+
+      Share
+    </summary>
+    <div class="share-button__fallback motion-reduce">
+      <div class="field">
+        <span id="ShareMessage-template--17025438286024__featured_product_bxjJy9" class="share-button__message hidden" role="status"> </span>
+        <input type="text" class="field__input" id="ShareUrl-template--17025438286024__featured_product_bxjJy9" value="https://usswashington.com/products/pos4d-rekomendasi-tempat-hiburan-platfrom-digital-terpercaya" placeholder="Link" onclick="this.select();" readonly="">
+        <label class="field__label" for="ShareUrl-template--17025438286024__featured_product_bxjJy9">Link</label>
+      </div>
+      <button class="share-button__close hidden">
+        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+</path></svg>
+
+        <span class="visually-hidden">Close share</span>
+      </button>
+      <button class="share-button__copy">
+        <svg class="icon icon-clipboard" width="11" height="13" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" viewBox="0 0 11 13">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M2 1a1 1 0 011-1h7a1 1 0 011 1v9a1 1 0 01-1 1V1H2zM1 2a1 1 0 00-1 1v9a1 1 0 001 1h7a1 1 0 001-1V3a1 1 0 00-1-1H1zm0 10V3h7v9H1z" fill="currentColor"></path>
+</svg>
+
+        <span class="visually-hidden">Copy link</span>
+      </button>
+    </div>
+  </details>
+</share-button>
+
+<a href="/products/pos4d-rekomendasi-tempat-hiburan-platfrom-digital-terpercaya" class="link product__view-details animate-arrow">
+            View full details
+            <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</path></svg>
+
+          </a>
+        </product-info>
+      </div>
+    </div>
+    
+
+
+
+  </div>
+</section>
+
+<script src="//usswashington.com/cdn/shop/t/1/assets/product-form.js?v=133081758708377679181718833395" defer="defer"></script>
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "POS4D - Rekomendasi Tempat Hiburan Platfrom Digital Terpercaya",
+    "url": "https:\/\/usswashington.com\/products\/pos4d-rekomendasi-tempat-hiburan-platfrom-digital-terpercaya",
+    "image": [
+        "https:\/\/usswashington.com\/cdn\/shop\/files\/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572\u0026width=1920"
+      ],
+    "description": "Promosi seperti bonus deposit, cashback, dan turnamen mingguan sering kali menjadi daya tarik bagi pengguna pos4d.\n",
+    
+    "brand": {
+      "@type": "Brand",
+      "name": "pos4d"
+    },
+    "offers": [{
+          "@type" : "Offer","availability" : "http://schema.org/InStock",
+          "price" : 500.0,
+          "priceCurrency" : "IDR",
+          "url" : "https:\/\/usswashington.com\/products\/pos4d-rekomendasi-tempat-hiburan-platfrom-digital-terpercaya?variant=43945230074056"
+        }
+]
+  }
+</script>
+
+
+  <script src="//usswashington.com/cdn/shop/t/1/assets/product-modal.js?v=116616134454508949461718833395" defer="defer"></script>
+  <script src="//usswashington.com/cdn/shop/t/1/assets/media-gallery.js?v=143213719433830640921718833395" defer="defer"></script>
+
+
+
+</section>
+    </main>
+
+    <!-- BEGIN sections: footer-group -->
+
+<!-- END sections: footer-group -->
+
+    <ul hidden="">
+      <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
+      <li id="a11y-new-window-message">Opens in a new window.</li>
+    </ul>
+
+    <script>
+      window.shopUrl = 'https://usswashington.com';
+      window.routes = {
+        cart_add_url: '/cart/add',
+        cart_change_url: '/cart/change',
+        cart_update_url: '/cart/update',
+        cart_url: '/cart',
+        predictive_search_url: '/search/suggest',
+      };
+
+      window.cartStrings = {
+        error: `There was an error while updating your cart. Please try again.`,
+        quantityError: `You can only add [quantity] of this item to your cart.`,
+      };
+
+      window.variantStrings = {
+        addToCart: `Add to cart`,
+        soldOut: `Sold out`,
+        unavailable: `Unavailable`,
+        unavailable_with_option: `[value] - Unavailable`,
+      };
+
+      window.quickOrderListStrings = {
+        itemsAdded: `[quantity] items added`,
+        itemAdded: `[quantity] item added`,
+        itemsRemoved: `[quantity] items removed`,
+        itemRemoved: `[quantity] item removed`,
+        viewCart: `View cart`,
+        each: `[money]/ea`,
+        min_error: `This item has a minimum of [min]`,
+        max_error: `This item has a maximum of [max]`,
+        step_error: `You can only add this item in increments of [step]`,
+      };
+
+      window.accessibilityStrings = {
+        imageAvailable: `Image [index] is now available in gallery view`,
+        shareSuccess: `Link copied to clipboard`,
+        pauseSlideshow: `Pause slideshow`,
+        playSlideshow: `Play slideshow`,
+        recipientFormExpanded: `Gift card recipient form expanded`,
+        recipientFormCollapsed: `Gift card recipient form collapsed`,
+        countrySelectorSearchCount: `[count] countries/regions found`,
+      };
+    </script><script src="//usswashington.com/cdn/shop/t/1/assets/predictive-search.js?v=162273246065392412141718833395" defer="defer"></script><div id="teaser2" style="width:autopx; height:0; text-align:left; display:scroll;position:fixed; bottom:230px;left:0px; z-index: 9999;"><div><a id="close-teaser" onclick="document.getElementById('teaser2').style.display = 'none';" style="cursor:pointer;"><center><img src="https://pub-694a6eceef7b491ca033ffec0339f75a.r2.dev/close.png" alt="close" title="close button" class="tie-appear"></center></a></div>
+    
+    <a href="https://bit.ly/RTP-POS4D" target="_blank" rel="noopener"><img loading="lazy" style="z-index:9999; border: ; height: auto; max-width: 100%;" title="RTP POS4D" src="https://pub-694a6eceef7b491ca033ffec0339f75a.r2.dev/JqT0qAJ.gif" alt="RTP LIVE POS4D" width="120" border="0" class="tie-appear"></a>
+    <p> 
+    </p>
+<p><!--Akhir disini-->
+</p></div>
+  
+
+<product-modal id="ProductModal-template--17025438286024__featured_product_bxjJy9" class="product-media-modal media-modal">
+  <div class="product-media-modal__dialog color-scheme-3 gradient" role="dialog" aria-label="Media gallery" aria-modal="true" tabindex="-1">
+    <button id="ModalClose-template--17025438286024__featured_product_bxjJy9" type="button" class="product-media-modal__toggle" aria-label="Close">
+      <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+</path></svg>
+
+    </button>
+
+    <div class="product-media-modal__content color-scheme-3 gradient" role="document" aria-label="Media gallery" tabindex="0">
+<img class="global-media-settings global-media-settings--no-shadow" srcset="//usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572&amp;width=550 550w,//usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572 894w" sizes="(min-width: 750px) calc(100vw - 22rem), 1100px" src="//usswashington.com/cdn/shop/files/zf_puhi_anime_demon_slayer_shirt_design_style_9067_by_zfpuhi_dfwdhrt-pre.webp?v=1721086572&amp;width=1445" alt="POS4D - Rekomendasi Tempat Hiburan Platfrom Digital Terpercaya" loading="lazy" width="1100" height="1100" data-media-id="28348653666504"></div>
+  </div>
+</product-modal><div tabindex="-1" aria-hidden="true" data-shopify-redact="" id="web-pixels-manager-sandbox-container" style="height: 0px !important; width: 0px !important; position: fixed !important; visibility: hidden !important; overflow: hidden !important; z-index: -100 !important; margin: 0px !important; padding: 0px !important; border: 0px !important;"><iframe tabindex="-1" aria-hidden="true" name="web-pixel-sandbox-CUSTOM-shopify-custom-pixel-LAX-02c9c26aw63669987pefbf05a6m2ac6ed9e" src="https://usswashington.com/wpm@02c9c26aw63669987pefbf05a6m2ac6ed9e/custom/web-pixel-shopify-custom-pixel@0140/sandbox/modern/" id="web-pixel-sandbox-CUSTOM-shopify-custom-pixel-LAX-02c9c26aw63669987pefbf05a6m2ac6ed9e" style="height: 0px !important; width: 0px !important; visibility: hidden !important;" sandbox="allow-scripts allow-forms"></iframe></div><script src="https://www.googletagmanager.com/gtag/js?id=G-RH7BT5FNY5" async=""></script></body></html>
